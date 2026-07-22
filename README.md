@@ -9,6 +9,8 @@
 - Supply and logic: 3.3 V
 - Connector: 4-pin JST-SH, 1 mm pitch
 - Pins: GND, 3.3 V, SDA, SCL
+- Not normally 5 V tolerant.
+- Connector: JST-SH Pitch: 1.0 mm
 
 </td>
 <td>
