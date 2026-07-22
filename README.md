@@ -4,7 +4,7 @@
 <tr>
 <td width="65%">
 
-- SparkFun created Qwiic
+- SparkFun® created Qwiic
 - Communication uses I²C
 - Supply and logic: 3.3 V
 - Connector: 4-pin JST-SH, 1 mm pitch
